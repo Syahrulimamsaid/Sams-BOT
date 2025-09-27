@@ -1,0 +1,15 @@
+{
+  "name": "sams-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sams Developer",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.2"
+  }
+}
